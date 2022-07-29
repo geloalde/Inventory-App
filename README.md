@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Click to visit website
+
 Edited the version 1.0 - July 22, 2022.
 
 
